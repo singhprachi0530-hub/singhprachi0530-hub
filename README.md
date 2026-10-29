@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Prachi Singh! 👋
 
-<!--
-**singhprachi0530-hub/singhprachi0530-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Brand Manager | Digital Marketing Enthusiast | Business Analytics Learner
 
-Here are some ideas to get you started:
+## 🌟 About Me
+I am a management student passionate about digital marketing, brand building, consumer behaviour, and creative storytelling. I enjoy exploring how brands connect with their audiences and using data-driven insights to support marketing decisions. I am continuously learning and developing my skills to build a career in brand management and marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **Management Studies** — Building knowledge in marketing, business strategy, management, and analytics.
+
+## 💡 Skills
+- Digital Marketing
+- Social Media Marketing
+- Search Engine Optimisation (SEO)
+- Content Creation & Strategy
+- Brand Strategy & Positioning
+- Market Research & Consumer Insights
+- Python for Data Analysis
+- Data Visualisation & Business Analytics
+- Teamwork & Collaboration
+
+## 🚀 Projects & Experience
+
+### 1. Digital Marketing Internship — Acharya Ganesh
+*July 2024 – November 2024*
+- Worked on SEO-related activities and digital marketing initiatives.
+- Developed an understanding of website optimisation and online visibility.
+
+### 2. Social Media Internship — Caterspoint
+*March 2026 – June 2026*
+- Contributed to social media content and marketing activities.
+- Worked on Saladspoint, Caterspoint's secondary brand, supporting its social media presence.
+
+### 3. Business Analytics Project — Sample Superstore
+- Analysing retail sales data using Python.
+- Exploring sales, profit, discounts, customer segments, and regional performance.
+- Applying data cleaning, visualisation, correlation, regression, and PCA.
+- Developing business recommendations based on analytical findings.
+
+## 📜 Certifications & Learning
+- Digital marketing and SEO internship experience.
+- CMP mentorship programme — mentee.
+- Continuously developing skills in marketing, analytics, and business strategy.
+
+*Add the names of any completed courses or formal certifications here.*
+
+## 🎨 Interests
+- Brand building and marketing trends
+- Creative content and storytelling
+- Reading and self-growth
+- Art, dance, and music
+- Exploring consumer behaviour and business innovation
+
+## 🎯 Career Goal
+To grow into a brand management professional who combines creativity, consumer understanding, and data-driven thinking to build meaningful brands.
+
+---
+
+*“Learning, creating, and turning ideas into impact — one project at a time.”*
