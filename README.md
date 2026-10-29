@@ -9,15 +9,13 @@ I am a management student passionate about digital marketing, brand building, co
 - **Management Studies** — Building knowledge in marketing, business strategy, management, and analytics.
 
 ## 💡 Skills
+- Python for Data Analysis
+- Data Visualisation & Business Analytics
 - Digital Marketing
 - Social Media Marketing
 - Search Engine Optimisation (SEO)
-- Content Creation & Strategy
 - Brand Strategy & Positioning
 - Market Research & Consumer Insights
-- Python for Data Analysis
-- Data Visualisation & Business Analytics
-- Teamwork & Collaboration
 
 ## 🚀 Projects & Experience
 
